@@ -51,8 +51,8 @@ body div:first-child{
     color: #8c8e84;
     font-size: small;
 }
-#sect{
-    background-image: url('img/hr-img.png');
+#sec{
+    background-image: url('/img/hr-img.png');
     height: 20px;
     margin-bottom: 3%;
     margin-top: 3%;
@@ -106,7 +106,7 @@ hr{
 
     background-color: #f5f5f5;
 
-    background: url('img/small-logo.png') no-repeat top center;
+    background: url('/img/small-logo.png') no-repeat top center;
     background-size: contain;
     margin-left: 2px;
     margin-right: 2px;
